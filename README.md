@@ -1,0 +1,2 @@
+# Conciencia_de_promociones
+El proyecto se trata de la creación de una aplicación web que consiste en simular los precios, las tarifas y el costo total a pagar de uno o varios productos dependiendo de el producto financiero que escoja.   La diferencia de otros simuladores de precios es que este determina no solo cuanto se pagará cada mes sino que también determina el ahorro final al comprar con la tarjeta de crédito y de esa forma el cliente puede realizar una mejor opción de compra.
