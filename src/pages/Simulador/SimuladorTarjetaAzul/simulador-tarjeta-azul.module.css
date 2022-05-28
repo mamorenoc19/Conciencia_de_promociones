@@ -1,0 +1,77 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.formBody{
+    width: 100%;
+    text-align: center;
+}
+
+.tituloSimulador{
+    padding: 50px;
+    margin-bottom: 30px;
+    color: #0668a1;
+    font-size: 49px;
+    font-weight: bold;
+}
+
+.simulatorField{
+    margin-bottom: 60px;
+}
+
+.submitButton{
+
+    width: 200px;
+    height: 40px;
+    margin-right: 60px;
+    color: white;
+    background-color: #0668a1;
+    font-weight: bold;
+    font-style: normal;
+    border-radius: 20px;
+    border:#707070;
+}
+
+.submitButton:hover{
+    background-color:#193457 ;
+    transition: 0.5s;
+}
+
+.instButton{
+
+    width: 200px;
+    height: 40px;
+    color: #0668a1;
+    background-color: white;
+    font-weight: bold;
+    font-style: normal;
+    border-radius: 20px;
+    border:none;
+}
+
+.instButton:hover{
+    color:#000000 ;
+    transition: 0.5s;
+}
+
+
+label{
+    display: inline-block;
+    width: 350px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+input{
+    width: 402px;
+    height: 30px;
+    font-size: 15px;
+    text-align: center;
+    font-style: italic;
+}
+
+.formBody{
+    width: 100%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
